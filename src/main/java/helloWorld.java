@@ -21,4 +21,10 @@ public class helloWorld {
     public static void hotfix2(){
         System.out.println("hotfix2");
     }
+    public static void hotfix3(){
+        System.out.println("hotfix3");
+    }
+    public static void mainfeature2(){
+        System.out.println("mainfeature2");
+    }
 }
