@@ -11,4 +11,8 @@ public class helloWorld {
     public static void mainbranch(){
         System.out.println("this is main");
     }
+
+    public static void hotfix(){
+        System.out.println("hotfix");
+    }
 }
