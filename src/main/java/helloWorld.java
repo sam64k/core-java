@@ -6,4 +6,7 @@ public class helloWorld {
 
         System.out.println(" updated feature code1.1");
     }
+    public static void feature1(){
+        System.out.println("this is feature branch");
+    }
 }
