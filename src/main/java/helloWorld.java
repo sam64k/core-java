@@ -18,4 +18,7 @@ public class helloWorld {
     public static void hotfix(){
         System.out.println("hotfix");
     }
+    public static void hotfix2(){
+        System.out.println("hotfix2");
+    }
 }
