@@ -8,4 +8,7 @@ public class helloWorld {
 
         System.out.println("git reset HEAD <FILENAME>");
     }
+    public static void mainbranch(){
+        System.out.println("this is main");
+    }
 }
